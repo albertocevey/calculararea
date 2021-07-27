@@ -1,6 +1,6 @@
 # **Calcular Área do Quadrado, Retângulo, Triângulo e Circulo**
 
-Código fonte retirado desse artigo.
+Código fonte retirado desse artigo http://www.macoratti.net/18/12/c_ooprat1.htm.
 
 Utilizei esse código fonte para consolidar alguns conceitos de POO (Programação Orientada a Objetos).
 
