@@ -1,0 +1,16 @@
+E:\workspace\calculararea\bin\Debug\net5.0\calculararea.exe
+E:\workspace\calculararea\bin\Debug\net5.0\calculararea.deps.json
+E:\workspace\calculararea\bin\Debug\net5.0\calculararea.runtimeconfig.json
+E:\workspace\calculararea\bin\Debug\net5.0\calculararea.runtimeconfig.dev.json
+E:\workspace\calculararea\bin\Debug\net5.0\calculararea.dll
+E:\workspace\calculararea\bin\Debug\net5.0\ref\calculararea.dll
+E:\workspace\calculararea\bin\Debug\net5.0\calculararea.pdb
+E:\workspace\calculararea\obj\Debug\net5.0\calculararea.csproj.AssemblyReference.cache
+E:\workspace\calculararea\obj\Debug\net5.0\calculararea.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspace\calculararea\obj\Debug\net5.0\calculararea.AssemblyInfoInputs.cache
+E:\workspace\calculararea\obj\Debug\net5.0\calculararea.AssemblyInfo.cs
+E:\workspace\calculararea\obj\Debug\net5.0\calculararea.csproj.CoreCompileInputs.cache
+E:\workspace\calculararea\obj\Debug\net5.0\calculararea.dll
+E:\workspace\calculararea\obj\Debug\net5.0\ref\calculararea.dll
+E:\workspace\calculararea\obj\Debug\net5.0\calculararea.pdb
+E:\workspace\calculararea\obj\Debug\net5.0\calculararea.genruntimeconfig.cache
